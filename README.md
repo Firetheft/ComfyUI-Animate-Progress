@@ -1,6 +1,11 @@
+<div align="center">
+   
 # ComfyUI Animate Progress
 
 A progress bar beautification plugin designed for [ComfyUI](https://github.com/comfyanonymous/ComfyUI). It replaces the monotonous default progress bar with a vibrant and dynamic experience, complete with an animated character and rich visual effects.
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2259bc23-1275-4485-bf16-caf1103ba4c1)
+
+</div>
 
 ---
 
